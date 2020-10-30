@@ -1,4 +1,4 @@
-﻿# Training a delivery drone with mlAgents
+﻿# Training a delivery drone with ml-Agents
 
 <img align="right" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px" height="200px" src="images/Drone.png">
 
@@ -160,5 +160,7 @@ This project is provided as-is without guarantees. Please contact me (matheus.ch
 * You run into issues downloading or installing after following the instructions above.
 * You extend this project in an interesting way. We may not be able to provide support, but would love to hear about it.
 
+## Citation of ml-Agents
 
+Juliani, A., Berges, V., Teng, E., Cohen, A., Harper, J., Elion, C., Goy, C., Gao, Y., Henry, H., Mattar, M., Lange, D. (2020). Unity: A General Platform for Intelligent Agents. arXiv preprint arXiv:1809.02627. https://github.com/Unity-Technologies/ml-agents.
 
