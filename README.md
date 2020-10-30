@@ -1,6 +1,6 @@
 ﻿# Training a delivery drone with mlAgents
 
-<img align="right" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px" height="200px" src="images/robot_still.png">
+<img align="right" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px" height="200px" src="images/Drone.png">
 
 This is a university project powered by [SIGMA Clermont](https://www.sigma-clermont.fr/fr) and made by the brazilian student [Matheus Chaves D'Carvalho](https://www.linkedin.com/in/matheus-chaves-d-carvalho-estudante-n%C3%ADvel-mestrado-eu-na-sigma-clermont-34b87a196/?locale=en_US) under the guidance of the Professor Christophe Bascoul.
 
