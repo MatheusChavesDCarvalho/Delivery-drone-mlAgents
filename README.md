@@ -156,8 +156,7 @@ Since there is some randomness in the training process, your results might not l
 
 ## Support
 
-This project is provided as-is without guarantees. Please [submit
-an issue](https://github.com/Unity-Technologies/articulations-robot-demo/issues) if:
+This project is provided as-is without guarantees. Please contact me (matheus.chaves.dcarvalho@gmail.com) if:
 * You run into issues downloading or installing after following the instructions above.
 * You extend this project in an interesting way. We may not be able to provide support, but would love to hear about it.
 
