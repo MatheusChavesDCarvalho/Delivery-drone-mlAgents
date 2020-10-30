@@ -1,0 +1,56 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.3.14f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.3.14f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=12081 outsize=1499 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=12124 outsize=1819 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=12124 outsize=1856 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=19771 outsize=5237 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=2640 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1689 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1597 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1287 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1369 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1465 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1311 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1823 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1974 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1997 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1301 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=1590 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=66851 outsize=2421 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73605 outsize=2761 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=775 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=937 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=950 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=831 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=1321 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=1363 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=33997 outsize=1284 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=74993 outsize=23646 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1602 outsize=2002 kw=UNITY_PASS_FORWARDBASE DIRECTIONAL SHADOWS_SCREEN LIGHTPROBE_SH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_USE_DITHER_MASK_FOR_ALPHABLENDED_SHADOWS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING UNITY_ENABLE_DETAIL_NORMALMAP SHADER_API_DESKTOP UNITY_COLORSPACE_GAMMA UNITY_LIGHT_PROBE_PROXY_VOLUME UNITY_LIGHTMAP_FULL_HDR ok=1

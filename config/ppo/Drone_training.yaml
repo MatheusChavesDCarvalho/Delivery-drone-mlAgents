@@ -1,0 +1,54 @@
+
+behaviors:
+  AgentStabResponsable:
+      trainer_type: ppo
+      hyperparameters:
+       batch_size: 2048
+       beta: 0.0005
+       buffer_size: 61440
+       epsilon: 0.3
+       lambd: 0.98
+       num_epoch: 5
+      network_settings:
+       normalize: true
+       num_layers: 2
+       vis_encode_type: simple
+       memory_size: 256
+       sequence_length: 64
+      max_steps: 100000000
+      checkpoint_interval: 500000
+      keep_checkpoints: 6
+      time_horizon: 32
+      summary_freq: 12000
+      reward_signals:
+         extrinsic:
+          strength: 1.0
+          gamma: 0.99
+
+  AgentNoStabResponsable:
+      trainer_type: ppo
+      hyperparameters:
+       batch_size: 2048
+       beta: 0.005
+       buffer_size: 61440
+       epsilon: 0.3
+       lambd: 0.98
+       num_epoch: 6
+      network_settings:
+       normalize: true
+       num_layers: 2
+       vis_encode_type: simple
+       memory_size: 256
+       sequence_length: 64
+      max_steps: 100000000
+      checkpoint_interval: 500000
+      keep_checkpoints: 6
+      time_horizon: 64
+      summary_freq: 12000
+      reward_signals:
+         extrinsic:
+          strength: 1.0
+          gamma: 0.99
+
+
+    

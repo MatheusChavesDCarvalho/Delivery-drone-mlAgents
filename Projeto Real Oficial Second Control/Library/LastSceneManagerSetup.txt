@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Realistic Drone/scenes/2.5_Point_In_Environment.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
